@@ -1,10 +1,11 @@
-# RinlitHub --A new hub truly designed for young people.
+# RinlitHub --A truly humanized intelligent hub.
 
 >Lu Xun once said: "***To indecency rinlit,one Building RinlitHub.***"
 >Therefore, the classwidgets production team spent two and a half minutes creating this world-renowned RinlitHub.
 ---
 >🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵
-## You are currently viewing the English version of the readme file. If you need to view the Chinese version, please go back to [README.md](https://github.com/FireworkRocket/RinlitHub/blob/main/README.md "Chinese")
+### You are currently viewing the English version of the readme file. If you need to view the Chinese version, please go back to [README.md](https://github.com/FireworkRocket/RinlitHub/blob/main/README.md "Chinese")
+## You should pay me for making this piece of shit.
 
 ![一定是rinlit干的](https://github.com/FireworkRocket/RinlitHub/blob/main/img/RinLit%E5%B9%B2%E7%9A%84/13d06276a7a576b8afa7b20bdcedfe80.jpg?raw=true)
 >**我们不承担任何对于精神状态产生损伤的赔偿.**
