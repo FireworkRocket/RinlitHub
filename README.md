@@ -1,4 +1,4 @@
-# RinlitHub --真正为年轻人打造的新型Hub
+# RinlitHub --一款真正人性化的智能Hub
 
 >鲁迅曾经说过: "***要想撅rinlit,就要先打造RinlitHub.***"
 >而著名的rinlit也说过:　"***好想和RinLit做奇怪的事情🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵***"
@@ -7,7 +7,8 @@
 
 ---
 ### [中文](https://github.com/FireworkRocket/RinlitHub/blob/main/README.md "中文版本")  
-## [English](https://github.com/FireworkRocket/RinlitHub/blob/main/readme_en.md "English Version")
+### [English](https://github.com/FireworkRocket/RinlitHub/blob/main/readme_en.md "English Version")
+## 你应该向我支付做这坨屎的费用
 ![一定是rinlit干的](https://github.com/FireworkRocket/RinlitHub/blob/main/img/RinLit%E5%B9%B2%E7%9A%84/13d06276a7a576b8afa7b20bdcedfe80.jpg?raw=true)
 >**我们不承担任何对精神状态产生损伤的责任.**
 ---
